@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar-brand img{
+  width: 150px !important;
+}
+
+.card-image{
+  width: 286px;
+  height: 176px;
+  background-size: cover;
+}
+
+.spinnner{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+
+.main-content-loaded{
+  min-height: 80vh;
+}
